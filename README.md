@@ -1,5 +1,5 @@
 - 🐤 Hello, I'm LulubelUwU
 - ✍️ I like to experiment with programming even if it doesn't work.
 - 🏔️ my dreams are (1 to create my own video game creation engine)
-- (2 create my own cube game)
+- (2 I will create my own cube game)
 - 🍀 I hope I have luck in my projects uwu
